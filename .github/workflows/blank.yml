@@ -44,4 +44,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Final
-        run: ls
+        run: tree
